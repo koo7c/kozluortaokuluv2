@@ -23,7 +23,7 @@ html, body{
   background-color: GREY; /* Add a dark-grey background on hover */
 }
 .yina{
-  margin-top:-10%;
+  margin-top:0px;
 
 }
 .container {
@@ -165,7 +165,7 @@ border-radius:5px;
 .haberortalayici .haberlogo{
    
     padding: 5px;
-    width: 125px;
+    width: 500px;
     border-radius:10px;
   
 }
